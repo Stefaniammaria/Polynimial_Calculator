@@ -1,8 +1,4 @@
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-
 public class Monomial {
-
 
     private int coeficient;
     private int putere;
